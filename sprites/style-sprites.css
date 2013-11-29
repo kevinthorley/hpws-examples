@@ -1,0 +1,28 @@
+#battery-bar span {
+  width:48px;
+  height:48px;
+  display:inline;
+  float:left;
+  background-image:url(images/battery-sprites.png);
+}
+
+.battery-full{
+	background-position: 0 0;
+}
+
+.battery-high{
+	background-position: -50px 0;
+}
+
+.battery-medium{
+	background-position: -100px 0;
+}
+
+.battery-caution-charging{
+	background-position: -150px 0;
+}
+
+.battery-low-charging{
+	background-position: -200px 0;
+}
+	

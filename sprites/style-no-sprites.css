@@ -1,0 +1,7 @@
+#battery-bar span {
+  width:48px;
+  height:48px;
+  display:inline;
+  float:left;
+}
+	
