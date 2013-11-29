@@ -3,7 +3,7 @@
   height:48px;
   display:inline;
   float:left;
-  background-image:url(images/battery-sprites.png);
+  background-image:url(../images/battery-sprites.png);
 }
 
 .battery-full{
